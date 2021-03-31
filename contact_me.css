@@ -1,0 +1,32 @@
+
+				body {
+				text-align:center;
+				background-color: lightsteelblue;
+				font-size: 20px;
+				}
+				
+				p.p1 {
+				font-size: 30px;
+				}
+				
+				select {
+				font-size: 17px;
+				}
+				
+				textarea {
+				 width: 350px;
+                 height: 201px;
+				}
+				
+				div {
+				position:absolute;
+				left:667px;
+				}
+				
+				input[type=submit] {
+				width: 10em;  
+				height: 3em;
+				background-color: #666699;
+				color: white;
+				}
+		
